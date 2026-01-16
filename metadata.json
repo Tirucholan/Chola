@@ -1,0 +1,7 @@
+{
+  "name": "Chola",
+  "description": "A self-improvement app\n",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
